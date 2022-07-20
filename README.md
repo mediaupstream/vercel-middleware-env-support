@@ -27,9 +27,13 @@ vercel dev
 # follow prompts to connect to a vercel project with default settings (for a create-react-app)
 ```
 open up `localhost:3000` and see the error message 
-
 ```
 500: INTERNAL_SERVER_ERROR
+```
+
+also the terminal shows this error, instead of printing the API_URL
+```
+Unhandled rejection: process is not defined
 ```
 
 ------
