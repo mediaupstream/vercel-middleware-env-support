@@ -24,6 +24,7 @@ Start cra:
 cd cra
 yarn
 vercel dev
+# follow prompts to connect to a vercel project with default settings (for a create-react-app)
 ```
 open up `localhost:3000` and see the error message 
 
