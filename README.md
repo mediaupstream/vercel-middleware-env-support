@@ -23,7 +23,7 @@ Start cra:
 ```
 cd cra
 yarn
-yarn dev
+vercel dev
 ```
 open up `localhost:3000` and see the error message 
 
