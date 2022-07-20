@@ -1,3 +1,9 @@
+My environment:
+```
+node version: 16.6.2
+yarn version: 1.22.5
+```
+
 Two projects:
 
 ```
